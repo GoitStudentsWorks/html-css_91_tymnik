@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/group16_project_1/",
+    "build": "vite build --base=/html-css_91_tymnik/",
     "preview": "vite preview"
   },
   "devDependencies": {
